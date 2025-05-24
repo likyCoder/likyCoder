@@ -60,3 +60,92 @@
 likyCoder/likyCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# ✅ LikyCoder's Completed Projects
+
+Welcome to my official project showcase. Below is a list of my completed and live web, automation, and AI-based software projects — all built with passion, code, and impact.
+
+---
+
+## 🌐 Websites & Full-Stack Platforms
+
+### 🔹 [Liky Lancers Company (LLC)](https://likyjosh.likesyou.org/llc)
+A freelancing platform connecting coders and clients, with job boards, lances, and user roles.
+- Technologies: HTML, CSS, JavaScript, PHP, MySQL
+- Features: Freelancer/job listings, advanced UI/UX, interactive pages
+
+### 🔹 [Sai Pali Lost & Found](https://likyjosh.likesyou.org/lostfound)
+Lost & Found platform for Sai Pali community
+- Technologies: Bootstrap, PHP, MySQL
+- Features: Item reporting, claim system, admin dashboard
+
+### 🔹 [LikyJosh Portfolio](https://likyjosh.likesyou.org)
+My official personal portfolio website
+- Technologies: HTML, CSS, JavaScript, Bootstrap
+- Sections: About Me, Projects, Skills, Contact
+
+### 🔹 [Transport Ticketing & Ride Share Website](https://likyjosh.likesyou.org/transport)
+Order tickets for long/short journeys with ride-sharing features
+- Technologies: PHP, JS, CSS
+- Features: Route planning, booking, ridesharing system
+
+---
+
+## 🤖 Bots & Automation
+
+### 🤖 AI Trader Pro
+MetaTrader 5-based Telegram bot for smart trading using SMA crossover and RSI
+- Languages: Python
+- Stack: MetaTrader 5, Telegram Bot API
+- Status: Live for Telegram-based signals & auto trades
+
+⏳ *Private repo — [Contact me](mailto:likyjosh123@gmail.com) for demo or collaboration*
+
+---
+
+## 🧠 Blogs & Platforms
+
+### 📖 [Liky Hackers Hub](https://likyjosh.likesyou.org/blog)
+A technical blog sharing tips, ethical hacking info, dev projects, and more.
+- Stack: HTML, CSS, Markdown
+- Category: Cybersecurity, Dev Tutorials, Tools
+
+---
+
+## 🛍️ Business & Services
+
+### 🔹 [Digital Marketing & Affiliate Hub](https://likyjosh.likesyou.org/digitalhub)
+A business site offering digital services and affiliate product promotions.
+- Features: Service listing, product showcases, blog integration
+- Role: Founder, Designer, Full-Stack Dev
+
+---
+
+## 🧪 Demos, Concepts & Mini Projects
+
+### 🧪 [Recipe Finder App (Demo)](https://likyjosh.likesyou.org/recipes)
+An app to search and plan meals based on available ingredients.
+- Technologies: JavaScript, HTML, CSS
+- Features: Ingredient filtering, meal planning UI
+
+---
+
+## 🏗️ Currently Working On (Coming Soon)
+
+- 🔄 **LIKY Solutions Dashboard** (B2B tools, inventory, automation)
+- 📊 **Advanced Trading Bot Suite**
+- 📱 **Mobile app version of Liky Lancers**
+
+---
+
+## 📬 Want to collaborate?
+
+Reach out:
+- **Email**: likyjosh123@gmail.com
+- **Telegram**: [@likyCoder](https://t.me/likyCoder)
+- **GitHub**: [github.com/likyCoder](https://github.com/likyCoder)
+
+---
+
+> “Code is power. Creation is freedom.” — @likyCoder
+
+
